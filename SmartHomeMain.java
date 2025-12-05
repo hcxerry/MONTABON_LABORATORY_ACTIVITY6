@@ -244,7 +244,7 @@ class MicrowaveOven extends Device {
     }
 }
 
-public class SmartHomeSystem {
+public class SmartHomeMain {
     public static void main(String[] args) {
         // a.i. Air conditioner at default values (fan speed = 3, temperature = 24)
         AirConditioner ac = new AirConditioner("AirConditioner-LivingRoom", 3, 24);
